@@ -1,4 +1,4 @@
-FROM alpine
+FROM javanile/bash-ci:5.1.4
 
 WORKDIR /docs
 
