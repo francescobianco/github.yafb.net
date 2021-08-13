@@ -5,7 +5,7 @@ Public website
 * <https://francescobianco.github.io>
 * <https://bianco.ml>
 
-### Credits
+Resources
 
 * <https://github.com/mathusummut/confetti.js/>
 
