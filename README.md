@@ -3,7 +3,6 @@
 Public website
 
 * <https://francescobianco.github.io>
-* <https://bianco.ml>
 
 Resources
 
