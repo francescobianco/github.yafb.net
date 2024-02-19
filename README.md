@@ -2,12 +2,12 @@
 
 Public website
 
-* <https://francescobianco.github.io>
+* <https://github.yafb.net>
 
 Resources
 
-* <https://github.com/mathusummut/confetti.js/>
+* <https://github.com/loonywizard/js-confetti>
 
 ----
 
-© 2019-2021 Francesco Bianco.
+© 2019-2024 Francesco Bianco.
